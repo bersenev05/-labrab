@@ -1,0 +1,14 @@
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\obj\Debug\net8.0\labrab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\obj\Debug\net8.0\labrab1.AssemblyInfoInputs.cache
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\obj\Debug\net8.0\labrab1.AssemblyInfo.cs
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\obj\Debug\net8.0\labrab1.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\bin\Debug\net8.0\labrab1.exe
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\bin\Debug\net8.0\labrab1.deps.json
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\bin\Debug\net8.0\labrab1.runtimeconfig.json
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\bin\Debug\net8.0\labrab1.dll
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\bin\Debug\net8.0\labrab1.pdb
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\obj\Debug\net8.0\labrab1.dll
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\obj\Debug\net8.0\refint\labrab1.dll
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\obj\Debug\net8.0\labrab1.pdb
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\obj\Debug\net8.0\labrab1.genruntimeconfig.cache
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab1\labrab1\labrab1\obj\Debug\net8.0\ref\labrab1.dll
