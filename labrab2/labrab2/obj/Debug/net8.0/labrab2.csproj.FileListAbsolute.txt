@@ -1,0 +1,14 @@
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\bin\Debug\net8.0\labrab2.exe
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\bin\Debug\net8.0\labrab2.deps.json
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\bin\Debug\net8.0\labrab2.runtimeconfig.json
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\bin\Debug\net8.0\labrab2.dll
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\bin\Debug\net8.0\labrab2.pdb
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\obj\Debug\net8.0\labrab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\obj\Debug\net8.0\labrab2.AssemblyInfoInputs.cache
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\obj\Debug\net8.0\labrab2.AssemblyInfo.cs
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\obj\Debug\net8.0\labrab2.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\obj\Debug\net8.0\labrab2.dll
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\obj\Debug\net8.0\refint\labrab2.dll
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\obj\Debug\net8.0\labrab2.pdb
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\obj\Debug\net8.0\labrab2.genruntimeconfig.cache
+C:\Users\ivanb\Desktop\SLASH\code\c#\labrab2\labrab2\labrab2\obj\Debug\net8.0\ref\labrab2.dll
